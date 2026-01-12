@@ -1,8 +1,8 @@
 # Simple math operations in Python
 
 # Take input
-a = 10
-b = 5.5
+a = 
+b = 
 
 # Perform operations
 print("Addition:", a + b)
