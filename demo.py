@@ -1,7 +1,7 @@
 # Simple math operations in Python
 
 # Take input
-r = 10
+a = 10
 t = 4.6
 
 # Perform operations
