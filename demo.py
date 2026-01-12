@@ -2,7 +2,7 @@
 
 # Take input
 a = 10
-t = 4.6
+b = 4.6
 
 # Perform operations
 print("Addition:", a + b)
